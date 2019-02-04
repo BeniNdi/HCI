@@ -1,0 +1,26 @@
+.regform form{
+	padding-right: 500px;
+	padding-left: 500px;
+}
+.regform input, .regform select{
+	width:80%;
+	border:none;
+	border-bottom: 1px solid #000;
+	background-image: url('1094955.jpg');
+
+}
+.helparea{
+	height:100px;
+	width:300px;
+}
+
+.regform button{
+	height:80px;
+	width: 160px;
+	border-radius: 25%;
+	background-color: green;
+}
+ body{
+ 	background-image: url('1094955.jpg');
+ 	background-size: cover;
+ }

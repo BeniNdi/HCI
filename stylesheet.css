@@ -1,0 +1,262 @@
+.header-logo
+{
+	background-color:blue;
+	height:235px;
+	float:left;
+	padding-right: 40px;
+	 
+}
+.header-title 
+{
+	background-color:violet; 
+	font-size:25px;
+	font-family:serif;
+	
+	height:70px;
+	
+}
+.header-logo img ,.footer img
+{
+	width:120px;
+	height:120px;
+	margin-top:10px;
+	margin-left:10px;
+	border-radius:100%;
+}
+
+
+.header-title ul{
+	list-style-type:none;
+	float:left;
+	padding-left:100px;
+	
+}
+.header-title li{
+	list-style-type:none;
+	float:left;
+	text-align:center;
+	padding-right:60px;
+	font-size: 20px;
+	font-family:verdana;
+}
+a:hover{
+	background-color: blue;
+	
+}
+a{
+	color: white;
+	text-decoration: none;
+
+}
+.header-image p{
+	background-image: url(palmi-mano.jpg);
+}
+
+.main
+{
+	background-image:url('D324-0436-601.jpg');
+	background-size:cover;
+	height:600px;
+	
+}
+body{
+	font-family: verdana;
+}
+h1{
+	font-color:red; 
+}
+h3{
+	font-color:#ff0000;
+}
+.followus{
+	align-content: center;
+	padding-left: 300px;
+}
+.joinus, .joinUss{
+	height:130px;
+	width: 300px;
+	background-color: #f4424e;
+	font-size: 45px;
+	border-radius: 25%;
+}
+.member-join{
+	height: 100px;
+	width:250px;
+	background-color: violet;
+	font-size: 35px;
+	border-radius: 18%;
+	margin-left: 520px;
+	/*padding-bottom: 50px;*/
+
+}
+.joinHome{
+	background-color: lightblue;
+	/*padding-top:160px;*/
+	
+}
+.joinForm{
+	padding-left: 600px;
+}
+.joinForm input, select{
+	width:45%;
+	height: 25px;
+	background-color: lightblue;
+	border:none;
+	border-bottom: 1px solid #000;
+}
+
+.joinedMain{
+	background-color: lightblue;
+	margin-left: 200px;
+	margin-right:200px;
+	border:1px solid #000;
+	padding-top:100px;
+	padding-bottom: 100px;
+}
+.joinedM{
+	background-color: pink;
+}
+.joinedForm{
+	display: flex;
+	justify-content: space-between;
+	padding-top: 80px;
+}
+.address{
+	padding-top: 150px;
+	padding-bottom: 150px;
+	margin-left: 200px;
+	margin-right: 200px;
+	border:2px solid #000;
+	background-color: lightblue;
+}
+.contactUs-main{
+	background-color: pink;
+	padding-top:180px;
+	padding-bottom: 180px;
+}
+.partners-main{
+	/*background-image:url('download (1).jpg');*/
+	/*background-size: cover;*/
+	background-color: lightblue;
+}
+.members-main{
+	background-color: lightblue;
+}
+.countries img{
+	padding-left: 120px;
+	height: 150px;
+	width:320px;
+}
+.countries button{
+	float: right;
+	background-color: blue;
+	border-radius: 25%;
+	color:white;
+	width:300px;
+	height: 70px;
+	margin-right: 300px;
+	
+}
+.about-main{
+	/*background-image: url('images (2).jpg');*/
+	/*background-size: cover;*/
+	background-color: pink;
+}
+.services-main{
+	/*background-image: url('1094955.jpg');*/
+	/*background-size: cover;*/
+	background-color: lightblue;
+}
+
+.services-main img{
+	padding-left:150px;
+	padding-bottom: 80px;
+	height:150px;
+	width:200px;
+	
+}
+.ser{
+	float:right;
+	margin-right: 450px;
+	
+}
+.ser span{
+	font-size: 25px;
+	font-style: bold;
+}
+.mem{
+	margin-right: 450px;
+	margin-left: 450px;
+
+
+}
+.mem span{
+	font-style: bold;
+
+}
+.footer
+{
+	background-color:violet;
+	height:200px;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	color:white;
+}
+.footer-list ul{
+	list-style-type:none;
+	display: flex;
+	flex-direction: column;
+	font-size:25px;
+	
+	
+}
+.footer-list li{
+	
+	padding-top:10px;
+	padding-right:20px;
+	color: black;
+	text-decoration: none;
+}
+.footer-logo{
+	
+	height:180px;
+	float:right;
+	background-color:blue;
+}
+
+ h1{
+	padding-left:100px;
+	margin-left:100px;
+	padding-top:40px;
+	font-size:50px;
+	font-family:"Avenir-Next";
+}
+h3{
+	margin-left:350px;
+	margin-right:350px;
+	font-size:20px;
+
+	
+}
+/*.prgm img{
+	height:150px;
+	width: 150px;
+	border-radius: 25%;
+}
+
+.prgm{
+	float: left;
+	width: 25%;
+}
+	
+
+.prgm p{
+	
+	margin-right: 10px;
+	margin-left: 10px;
+	font-family: Verdana;
+	font-size: 15px;
+	color: blue;
+
+}*/

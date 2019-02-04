@@ -1,0 +1,36 @@
+.prgm img{
+	height:200px;
+	width:200px;
+	/*border-radius: 25%;*/
+
+	
+}
+
+.main_progrms{
+	font-family: verdana;
+	margin-left: 100px;
+	
+}
+	
+
+.prgm p, .prgm h5{ 
+	
+	
+	font-family: Verdana;
+	font-size: 15px;
+	margin-right: 300px;
+	margin-left: 300px;
+
+	
+
+}
+.prgrm{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+body{
+	background-image: url('images.jpg');
+ 	background-size: cover;
+ 
+}
